@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is public template of assignment `"labrabota 2"` for FPMI students Meow!!!!!!
 
 # Usage
-
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Yarmosh Alesya 10 group
 
 # Building
 
 Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+Done!
